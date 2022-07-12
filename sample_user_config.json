@@ -6,7 +6,7 @@
         "mac1": "001132C5AAB2",
         "mac2": "001132C5AAB3",
         "DiskIdxMap": "00",
-        "SataPortMap": "3"
+        "SataPortMap": "3",
         "netif_num": "2"
     },
     "synoinfo": {},
