@@ -1,9 +1,14 @@
 {
     "extra_cmdline": {
-        "pid": "0x0001",
-        "vid": "0x46f4",
-        "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+        "pid": "0x6544",
+        "vid": "0x0930",
+        "sn": "1860PDN336212",
+        "mac1": "001132942657",
+        "mac2": "001132942658",
+        "DiskIdxMap": "00060C1218",
+        "SataPortMap": "66666",
+        "SasIdxMap": "0",
+        "netif_num": "2"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
